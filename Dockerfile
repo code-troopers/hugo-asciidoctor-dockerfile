@@ -9,6 +9,5 @@ RUN apk add --update curl && \
 
 EXPOSE 1313
 
-ENTRYPOINT ["hugo"]
 
 
